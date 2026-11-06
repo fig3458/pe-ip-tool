@@ -1,0 +1,9 @@
+*.exe
+*.test
+*.out
+smoke.exe
+pe-ip-tool.exe
+/smoketest/smoke
+.idea/
+.vscode/
+*.user
